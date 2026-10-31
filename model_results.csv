@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1 Score,AUC,Log Loss
+Random Forest,0.782,0.734,0.687,0.695,0.892,0.566
+Decision Tree,0.755,0.7,0.677,0.685,0.841,1.387
+Logistic Regression,0.766,0.705,0.675,0.682,0.877,0.6
+SVM,0.75,0.687,0.646,0.653,0.871,0.601
+KNN,0.631,0.557,0.528,0.532,0.759,2.896
