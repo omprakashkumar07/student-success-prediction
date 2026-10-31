@@ -44,3 +44,8 @@ Many students leave their course in between. In this project I try to predict wh
 2. Keep `data.csv` inside the `Dataset` folder.
 3. Change the `folder` path at the top of `student-success-prediction.py` to your own path.
 4. Run `student-success-prediction.py`. Graphs are saved in `figures` and results in `model_results.csv`.
+
+## Future work
+- Try class weights or oversampling to improve the Enrolled class
+- Tune the parameters of Random Forest and SVM
+- Do the outlier clipping and category grouping after the split, to avoid leakage
